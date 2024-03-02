@@ -31,7 +31,7 @@ The following **additional** features are implemented:
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I had to update my computer and update xcode which took a while so I couldn't start for a while. Then I had trouble getting the assistant editor to load which also prolonged the process of development.
 
 ## License
 
